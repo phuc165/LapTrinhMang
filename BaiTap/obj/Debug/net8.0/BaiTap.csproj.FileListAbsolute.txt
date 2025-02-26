@@ -1,0 +1,15 @@
+D:\LTM\LapTrinhMang\BaiTap\obj\Debug\net8.0\BaiTap.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTM\LapTrinhMang\BaiTap\obj\Debug\net8.0\BaiTap.AssemblyInfoInputs.cache
+D:\LTM\LapTrinhMang\BaiTap\obj\Debug\net8.0\BaiTap.AssemblyInfo.cs
+D:\LTM\LapTrinhMang\BaiTap\obj\Debug\net8.0\BaiTap.csproj.CoreCompileInputs.cache
+D:\LTM\LapTrinhMang\BaiTap\obj\Debug\net8.0\BaiTap.sourcelink.json
+D:\LTM\LapTrinhMang\BaiTap\bin\Debug\net8.0\BaiTap.exe
+D:\LTM\LapTrinhMang\BaiTap\bin\Debug\net8.0\BaiTap.deps.json
+D:\LTM\LapTrinhMang\BaiTap\bin\Debug\net8.0\BaiTap.runtimeconfig.json
+D:\LTM\LapTrinhMang\BaiTap\bin\Debug\net8.0\BaiTap.dll
+D:\LTM\LapTrinhMang\BaiTap\bin\Debug\net8.0\BaiTap.pdb
+D:\LTM\LapTrinhMang\BaiTap\obj\Debug\net8.0\BaiTap.dll
+D:\LTM\LapTrinhMang\BaiTap\obj\Debug\net8.0\refint\BaiTap.dll
+D:\LTM\LapTrinhMang\BaiTap\obj\Debug\net8.0\BaiTap.pdb
+D:\LTM\LapTrinhMang\BaiTap\obj\Debug\net8.0\BaiTap.genruntimeconfig.cache
+D:\LTM\LapTrinhMang\BaiTap\obj\Debug\net8.0\ref\BaiTap.dll
